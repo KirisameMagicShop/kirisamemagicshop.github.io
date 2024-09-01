@@ -3,7 +3,6 @@ title = 'About | 关于本站'
 author = 'Spore'
 date = 2024-09-01T20:06:17+08:00
 weight = 1
-draft = true
 +++
 
 ## 缘起
