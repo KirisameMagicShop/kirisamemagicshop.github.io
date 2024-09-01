@@ -1,6 +1,7 @@
 {{ if eq .Type "block" }}
-  {{ $opts := dict "displayMode" true }}
+  {{ $opts := dict "displayMode" true "output" "htmlAndMathml" }}
   {{ transform.ToMath .Inner $opts }}
 {{ else }}
+  {{ $opts := dict "output" "htmlAndMathml" }}
   {{ transform.ToMath .Inner }}
 {{ end }}
