@@ -2,3 +2,7 @@ baseURL = 'https://kirisamemagicshop.github.io/'
 languageCode = 'zh-cn'
 title = 'Kirisame Magic Shop'
 theme = 'PaperMod'
+
+[markup.goldmark.extensions.passthrough]
+enable = true
+delimiters = { block = [['$$', '$$']], inline = [['$', '$']] }
