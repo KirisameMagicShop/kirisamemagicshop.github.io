@@ -2,6 +2,10 @@ baseURL = 'https://kirisamemagicshop.github.io/'
 languageCode = 'zh-cn'
 title = 'Kirisame Magic Shop'
 theme = 'PaperMod'
+copyright = """\
+[Kirisame Magic Shop](https://kirisamemagicshop.github.io) © 2024 is licensed
+under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+"""
 
 [markup.goldmark.extensions.passthrough]
 enable = true
