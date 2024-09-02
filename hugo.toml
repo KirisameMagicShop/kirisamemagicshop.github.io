@@ -21,7 +21,7 @@ delimiters = { block = [['$$', '$$']], inline = [['$', '$']] }
 [params.homeInfoParams]
 Title = "雾雨魔法店"
 Content = """\
-    PLT，以及魔法。
+PLT，以及魔法。
 
-    目前主要作为同名知乎专栏的公开镜像。
+目前主要作为同名知乎专栏的公开镜像。
 """
