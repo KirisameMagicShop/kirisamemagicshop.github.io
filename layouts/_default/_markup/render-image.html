@@ -1,0 +1,10 @@
+<figure style="text-align:center">
+<img src="{{ .Destination | safeURL }}"
+  {{- with .Text }} alt="{{ . }}"{{ end -}}
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  style="margin: auto"
+>
+<figcaption>
+{{ .Title }}
+</figcaption>
+</figure>
