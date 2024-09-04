@@ -22,3 +22,11 @@ PLT，以及魔法。
 
 目前主要作为同名知乎专栏的公开镜像。
 """
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/KirisameMagicShop/kirisamemagicshop.github.io"
+
+[[params.socialIcons]]
+name = "Zhihu"
+url = "https://www.zhihu.com/column/marisa"
