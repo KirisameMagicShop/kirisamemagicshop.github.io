@@ -45,6 +45,4 @@ how to enable features, extend templates and customize the look.
 
 ## License
 
-Kirisame Magic Shop © 2024 is licensed under
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), unless stated
-otherwise in individual blog posts.
+Articles in Kirisame Magic Shop are individually licensed by their original authors.
