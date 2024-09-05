@@ -11,6 +11,9 @@ home = ['html', 'rss', 'json']
 name = 'Search'
 url = 'search/'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [markup.goldmark.extensions.passthrough]
 enable = true
 delimiters = { block = [['$$', '$$']], inline = [['$', '$']] }
