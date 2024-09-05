@@ -7,20 +7,22 @@ technical articles.
 
 ## Submitting Articles
 
-New articles should be added to `content/articles/<title-in-kebab-case>.md`.
-They should contain a frontmatter like
+New articles should be added to `content/posts/<title-in-kebab-case>.md`.
+They should contain a TOML frontmatter like
 
 ```
 +++
 title = 'Post Title'
 author = 'Your Name'
 date = 2024-09-01T20:06:17+08:00 # Datetime in TOML format
+tags = ['tag1', 'tag2']
+license = 'License'
 +++
 ```
 
 which can be generated with `hugo new content <path-to-content-md>`.
 
-The body is in markdown format, supporting KaTeX inline and block math.
+The body is in markdown format, supporting MathJax inline and block math.
 
 ## Contributing
 
