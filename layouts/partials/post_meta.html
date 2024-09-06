@@ -19,7 +19,7 @@
 {{- end }}
 
 {{- with .Params.license -}}
-{{- $scratch.Add "meta" . }}
+{{- $scratch.Add "meta" (markdownify .) }}
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
