@@ -24,6 +24,8 @@ Content = """\
 PLT，以及魔法。
 
 目前主要作为同名知乎专栏的公开镜像。
+
+> 致各位魔法店文章作者：若您同意本站收录您的文章，[请点击这里](https://github.com/KirisameMagicShop/kirisamemagicshop.github.io/issues/1)在评论中留下您的知乎 ID 或主页链接。非常感谢您的贡献。
 """
 
 [[params.socialIcons]]
