@@ -34,6 +34,9 @@ FP，PLT，以及适量的蘑菇。
 > 在评论中留下您的知乎 ID 或主页链接。非常感谢您的贡献。
 """
 
+[params]
+defaultTheme = "auto"
+
 [[params.socialIcons]]
 name = "GitHub"
 url = "https://github.com/KirisameMagicShop/kirisamemagicshop.github.io"
