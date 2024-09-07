@@ -11,6 +11,10 @@ home = ['html', 'rss', 'json']
 name = 'Search'
 url = 'search/'
 
+[[menu.main]]
+name = 'Tags'
+url = 'tags/'
+
 [markup.goldmark.renderer]
 unsafe = true
 
