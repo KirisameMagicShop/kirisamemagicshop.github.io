@@ -21,11 +21,13 @@ delimiters = { block = [['$$', '$$']], inline = [['$', '$']] }
 [params.homeInfoParams]
 Title = "雾雨魔法店"
 Content = """\
-PLT，以及魔法。
+FP，PLT，以及适量的蘑菇。
 
-目前主要作为同名知乎专栏的公开镜像。
+目前主要作为同名知乎专栏的公开镜像，也收录同类型专栏中的作品以及作者独立提交的文章。
 
-> 致各位魔法店文章作者：若您同意本站收录您的文章，[请点击这里](https://github.com/KirisameMagicShop/kirisamemagicshop.github.io/issues/1)在评论中留下您的知乎 ID 或主页链接。非常感谢您的贡献。
+> 致各位知乎文章作者：若您的作品被雾雨魔法店收录，并且同意本站转载您的文章，
+> [请点击这里](https://github.com/KirisameMagicShop/kirisamemagicshop.github.io/issues/1)
+> 在评论中留下您的知乎 ID 或主页链接。非常感谢您的贡献。
 """
 
 [[params.socialIcons]]
