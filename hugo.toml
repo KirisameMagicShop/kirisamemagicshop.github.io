@@ -44,3 +44,7 @@ url = "https://github.com/KirisameMagicShop/kirisamemagicshop.github.io"
 [[params.socialIcons]]
 name = "Zhihu"
 url = "https://www.zhihu.com/column/marisa"
+
+[[params.socialIcons]]
+name = "RSS"
+url = "https://kirisamemagicshop.github.io/index.xml"
