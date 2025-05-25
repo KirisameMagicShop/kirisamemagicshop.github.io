@@ -36,6 +36,7 @@ FP，PLT，以及适量的蘑菇。
 
 [params]
 defaultTheme = "auto"
+comments = true
 
 [[params.socialIcons]]
 name = "GitHub"
